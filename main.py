@@ -1,6 +1,5 @@
 from lexer_core import lexer
 
-
 archivo = input("Dame el archivo para analizar: ")
 
 try:
