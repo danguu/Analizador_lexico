@@ -39,7 +39,9 @@ El resultado de la ejecución es un archivo `tokens.txt` que contiene todos los 
 2. Ejecutar el programa desde la terminal:
 
    ```bash
-   python3 main.py ejemplo.py
+   python3 main.py
+   
+   Dame el archivo para analizar: ejemplo.py
    ```
 
 3. Revisar el archivo generado **tokens.txt**. Ejemplo de salida para el código anterior:
