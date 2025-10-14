@@ -1,0 +1,4 @@
+def ejemplo():
+  if True:
+        return 1
+    return 0
