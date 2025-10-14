@@ -1,0 +1,17 @@
+### caso_exito
+def greet(name: str) -> bool:
+    if name:
+        return True
+    else:
+        return False
+
+### caso_indentacion
+def bad():
+    x = 1
+  y = 2
+
+### caso_simbolo_faltante
+def f(x:int,
+
+### caso_ejemplo
+def contains(items:[int,]
