@@ -1,0 +1,8 @@
+def suma(a, b):
+    total = a + b
+    if total > 0:
+        return total
+    else:
+        return 0
+
+suma(1, 2)

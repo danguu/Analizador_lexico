@@ -1,0 +1,2 @@
+def g(x, valores=[1,2,3, ):
+    pass
